@@ -17,9 +17,6 @@ Welcome to the Magist and Eniac Data Analysis repository! This project leverages
 - Project Structure
 - Dataset
 - Analysis
-- Visualizations
-- Results
-- How to Use
 - License
 
 ## Introduction
