@@ -45,7 +45,7 @@ Our analysis focuses on answering key business questions:
 4. **Average Monthly Income**: Analyzing the average monthly income of all and tech sellers.
 
 ### Key SQL Queries:
-- To be updated
+- magist_KeySQL.sql: The main SQL query file.
 
 ## Thank You Note
 Thank you for exploring this project! Your interest and support are greatly appreciated. Special thanks to my amazing project team members.
