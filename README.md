@@ -1,5 +1,5 @@
 #### magist-eniac-case-study
-This repository contains a comprehensive data analysis of Magist and Eniac, utilizing SQL for data querying and Tableau for data visualization. The project aims to provide actionable insights into business decisions and performance metrics. Don't forget the unique insight folder.
+This repository contains a comprehensive data analysis of Magist and Eniac, utilizing SQL for data querying and Tableau for data visualization. The project aims to provide actionable insights into business decisions and performance metrics. **Don't forget the unique insight folder.**
 
 ## Hypothesis and Case Overview
 The Magist and Enica case study focuses on analyzing the data of two companies over a period from September 2016 to October 2018. Magist, known for its broad tech catalog and partnership with Eniac, a company specializing in Apple-compatible accessories, aims to evaluate the effectiveness of their collaboration. This analysis seeks to determine the following:
