@@ -16,13 +16,14 @@ The Magist and Enica case study focuses on analyzing the data of two companies o
 - Python
 - Google Colab
 
-## Table of Contents
-- Introduction
-- Project Structure
-- Dataset
-- Analysis
-- Unique Insight
-- License
+## Project Structure
+The repository is organized as follows:
+- `README.md`: This file, containing project overview and instructions.
+- `LICENSE`: The project license information.
+- `data/`: Directory containing the dataset files.
+- `sql/`: Directory containing SQL scripts for data analysis.
+- `tableau/`: Directory containing Tableau workbooks and visualizations.
+- `presentation/`: Directory with the Google Slide presentation.
 
 ## Key Learnings
 This project provided extensive experience in data analysis, visualization, and interpretation. Key learnings include advanced SQL querying, Tableau dashboard creation, and Python scripting for data manipulation. Additionally, using Google Colab facilitated seamless collaboration and execution in a cloud environment.
