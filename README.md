@@ -1,5 +1,7 @@
-#### magist-eniac-case-study
-This repository contains a comprehensive data analysis of Magist and Eniac, utilizing SQL for data querying and Tableau for data visualization. The project aims to provide actionable insights into business decisions and performance metrics. **Don't forget the unique insight folder.**
+# Magist and Eniac Case Study
+
+## Summary
+This project involves a detailed analysis of the partnership between Magist and Eniac, leveraging various data sources and visualization tools to uncover actionable insights. The study spans from September 2016 to October 2018, focusing on evaluating seller performance, customer satisfaction, delivery efficiency, and overall financial impact.
 
 ## Hypothesis and Case Overview
 The Magist and Enica case study focuses on analyzing the data of two companies over a period from September 2016 to October 2018. Magist, known for its broad tech catalog and partnership with Eniac, a company specializing in Apple-compatible accessories, aims to evaluate the effectiveness of their collaboration. This analysis seeks to determine the following:
@@ -8,9 +10,11 @@ The Magist and Enica case study focuses on analyzing the data of two companies o
 - **Companies**: Magist specializes in a wide range of tech products, while Enica focuses on high-end Apple-compatible accessories.
 - **Analysis Objective**: Assess the business outcomes of the partnership, identify areas for improvement, and provide actionable insights.
 
-# Magist and Eniac Data Analysis
-
-Welcome to the Magist and Eniac Data Analysis repository! This project leverages the power of SQL and Tableau to analyze and visualize key business metrics for Magist and Eniac. Our goal is to uncover valuable insights that can drive data-informed decisions.
+## Languages and Libraries Used
+- SQL
+- Tableau
+- Python
+- Google Colab
 
 ## Table of Contents
 - Introduction
@@ -20,33 +24,11 @@ Welcome to the Magist and Eniac Data Analysis repository! This project leverages
 - Unique Insight
 - License
 
-## Introduction
-This project focuses on analyzing Magist and Eniac's business data. By utilizing SQL for data manipulation and Tableau for visualization, we aim to provide a clear understanding of the business landscape and performance metrics.
+## Key Learnings
+This project provided extensive experience in data analysis, visualization, and interpretation. Key learnings include advanced SQL querying, Tableau dashboard creation, and Python scripting for data manipulation. Additionally, using Google Colab facilitated seamless collaboration and execution in a cloud environment.
 
-## Project Structure
-The repository is organized as follows:
-- `README.md`: This file, containing project overview and instructions.
-- `LICENSE`: The project license information.
-- `data/`: Directory containing the dataset files.
-- `sql/`: Directory containing SQL scripts for data analysis.
-- `tableau/`: Directory containing Tableau workbooks and visualizations.
-- `presentation/`: Directory with the Google Slide presentation.
+## Challenges Overcame
+Challenges included handling large datasets, ensuring data accuracy, and creating meaningful visualizations. Overcoming these challenges required advanced problem-solving skills and an in-depth understanding of data analytics tools and techniques.
 
-## Dataset
-The dataset includes sales, product, and seller information from September 2016 to October 2018. It provides a comprehensive view of the transactions and business operations.
-
-## Analysis
-Our analysis focuses on answering key business questions:
-1. **Data Coverage**: Identifying the time span of the dataset.
-2. **Seller Analysis**: Counting the total and tech sellers, along with their percentages.
-3. **Earnings**: Calculating total and tech seller earnings.
-4. **Average Monthly Income**: Analyzing the average monthly income of all and tech sellers.
-
-### Key SQL Queries:
-- magist_KeySQL.sql: The main SQL query file.
-
-## Unique Insight
-The analysis includes a detailed examination of review scores, highlighting trends and patterns in customer feedback. This aspect provides a deeper understanding of customer sentiments and potential areas.
-
-## Thank You Note
-Thank you for exploring this project! Your interest and support are greatly appreciated. Special thanks to my amazing project team members.
+## Additional Reflections
+Working on this project enhanced my ability to communicate complex technical insights to non-technical audiences. It also reinforced the importance of data-driven decision-making in evaluating business partnerships.
