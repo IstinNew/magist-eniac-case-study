@@ -10,6 +10,10 @@ The Magist and Enica case study focuses on analyzing the data of two companies o
 - **Companies**: Magist specializes in a wide range of tech products, while Enica focuses on high-end Apple-compatible accessories.
 - **Analysis Objective**: Assess the business outcomes of the partnership, identify areas for improvement, and provide actionable insights.
 
+## Links to Subsequent Projects
+1. **Next Project**: [Eniac's Discount Strategy Analysis](https://github.com/IstinNew/Enaic-s-Discount-Strategy-Analysis)
+2. **Current Project**: [Eniac A/B Testing Insight](https://github.com/IstinNew/Eniac_AB_Insight)
+
 ## Languages and Libraries Used
 - SQL
 - Tableau
